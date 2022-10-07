@@ -1,4 +1,4 @@
-# Postgres config reference:
+# DuckDB config reference:
 config:
   send_anonymous_usage_stats: False
   use_colors: True
